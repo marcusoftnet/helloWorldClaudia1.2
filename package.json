@@ -8,8 +8,8 @@
     "deploy" : "claudia update",
     "test" : "curl https://f62rqve181.execute-api.us-west-2.amazonaws.com/latest/hello/marcus"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Marcus Hammarberg @marcusoftnet",
+  "license": "MIT",
   "dependencies": {
     "claudia-api-builder": "^1.1.0"
   },
